@@ -1,7 +1,7 @@
-<H3>S.VENGADA KRISHNAN</H3>
-<H3>212223110061</H3>
-<H3>29.04.2025</H3>
-<H3>Experiment No. 2 </H3>
+# S.VENGADA KRISHNAN
+# 212223110061
+# 29.04.2025
+# Experiment No. 2 
 ## Implementation of Perceptron for Binary Classification
 ## AIM:
 To implement a perceptron for classification using Python<BR>
