@@ -1,6 +1,6 @@
-# S.VENGADA KRISHNAN
-# 212223110061
-# 29.04.2025
+# NAME : S.VENGADA KRISHNAN
+# REG.NO : 212223110061
+# DATE : 29.04.2025
 # Experiment No. 2 
 ## Implementation of Perceptron for Binary Classification
 ## AIM:
